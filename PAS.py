@@ -2,7 +2,7 @@ import random
 
 def main():
   print("Yukkk, mulai permainan tebak angka")
-  print("===START===")
+  print("===MULAI YUK===")
   # Tentukan batas atas dan bawah untuk tebakan
   angka_maksimum = 100
   angka_minimum = 1
